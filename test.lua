@@ -1,5 +1,5 @@
-{
-      test= {
+return {
+    test = {
         description = "Test custom command, kills the executor.",
         args = "[]",
         execute = function(executor, args)
